@@ -1,0 +1,8 @@
+0171,Delivery proccessed
+0172,Delivery processed
+0173,Delivery processed
+0174,Deliverry in process
+0175,Status
+0177,delivered
+0176,delivery in process
+0178,Delivery in process

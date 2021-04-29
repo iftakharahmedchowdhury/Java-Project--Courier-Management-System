@@ -1,0 +1,6 @@
+0171,0191,cumilla shaktola,Type : Receive from office
+0172,0192,cumilla kandirpar,Type : Receive from office
+0173,0193,cumilla kandirpar,Type : Receive from office
+0174,0194,cumilla suvopur,Type : Receive from office
+0175,0195,cumilla policeline,Type : Receive from office
+0176,0196,cumilla shaktola,Type : Receive from office

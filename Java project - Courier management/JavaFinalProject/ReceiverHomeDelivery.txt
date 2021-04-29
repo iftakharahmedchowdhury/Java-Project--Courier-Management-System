@@ -1,0 +1,6 @@
+0191,0171,kandirpar cumilla,Type : Home Delivery
+0193,0173,cumilla kandirpar,Type : Home Delivery
+0192,0182,asf,Type : Home Delivery
+0194,0184,sadfsas,Type : Home Delivery
+0195,0185,recAddress,Type : Home Delivery
+0196,0186,afdsdfa,Type : Home Delivery
